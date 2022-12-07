@@ -1,5 +1,5 @@
-# Demo_Ayananta
-This is for learning GitHub
+# Patent Application 
+This is a doc written to apply for patent for OneApp.
 
 ## OneApp
 ### Background
