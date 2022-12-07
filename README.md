@@ -3,7 +3,7 @@ This is for learning GitHub
 
 ## OneApp
 ### Background
-When a person visits a store, the storekeeper often—at the time of payment—suggests downloading their application (app) for availing benefits, like earning reward points on every spend, receiving early notifications for discounts and promotional offers, getting gift vouchers, availing valet parking, and similar such offers. How many of those customers do actually download and install the app to avail the benefits? The answer is not very encouraging for stores and brands who have their own apps. Very few actually install their app. People do not feel strong enough urge to drive them in taking the effort to download and install a new app on their phone, as the reward for doing so is nominal. 
+When a person visits a store, the storekeeper often—at the time of payment—suggests downloading their application (app) for you to avail benefits, like earning reward points on every spend, receiving early notifications for discounts and promotional offers, getting gift vouchers, and availing valet parking, among other benefits. How many of those customers actually download and install the app? The answer is not very encouraging for stores and brands who have their own apps and want their customers to use them. Very few people actually take the effort to install the app. People do not feel a strong-enough urge to drive them in taking the effort to download and install a new app on their phone, as the reward for doing so is nominal. 
 
 ### Description of prior attempts/systems and the reasons they did not succeed
 --
